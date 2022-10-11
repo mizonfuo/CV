@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  background-color: #40514E;
+  font-family: 'Oswald', sans-serif;
+}
+
+hr {
+  clear: left;
+  border-style: dotted none none none;
+  border-color: #B4CDE6;
+  border-width: 8px;
+  width: 5%
+}
+
+h3 {
+  color: #66BFBF;
+}
+h1 {
+  font-family: 'EB Garamond', serif;
+  font-size: 6rem;
+  text-align: center;
+  line-height: 2;
+  color:#EAF6F6}
+  .image1 {
+    float: left;
+    padding-right: 30px;
+  }
+
+  a:hover{
+    color: #EAF6F6;
+  }
+  .footer {
+    background-color: #66BFBF;
+    padding: 50px 50px;
+    text-decoration: none;
+    text-align: center;
+  }
+  a {
+    color: blue;
+    text-decoration: none;
+    padding-right: 40px;
+  }
+  .studies {
+    clear: left;
+  }
+  .intro {
+    width: 50%;
+  }
+  table {
+    border-color: #66BFBF;
+    border-spacing: 5px;
+  }
